@@ -1,0 +1,6 @@
+﻿  Lab10.cpp
+C:\Users\Slava\source\repos\Lab10\Lab10\Lab10.cpp(62,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Slava\source\repos\Lab10\Lab10\Lab10.cpp(250,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Slava\source\repos\Lab10\Lab10\Lab10.cpp(261,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Slava\source\repos\Lab10\Lab10\Lab10.cpp(444,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab10.vcxproj -> C:\Users\Slava\source\repos\Lab10\x64\Debug\Lab10.exe
